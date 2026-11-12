@@ -1,0 +1,6 @@
+__pycache__/
+server.log
+notes/*
+!notes/Welcome.md
+trash/*
+!trash/.gitkeep
